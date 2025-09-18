@@ -16,38 +16,9 @@ Clean, reusable, well-commented codebase
 
 Mock JSON data for listings and categories
 
-Installation
-bash
-git clone https://github.com/BirajxCode/URBAN_COMPANY.git
-cd URBAN_COMPANY
-npm install
-npm start
-Usage
-Access the running app at http://localhost:3000
-Navigate between Home and Service Listing pages to explore features.
 
-Folder Structure
-/src/components - Reusable UI components
-
-/src/pages - Main pages (Home, Service Listing)
-
-/src/assets - Images, icons, static files
-
-/src/data - Mock JSON files
-
-Technologies
-React.js
-
-React Router DOM
-
-Tailwind CSS or Material UI (update if you use a specific one)
-
-Contribution
-Pull requests welcome! For larger changes, please open an issue for discussion first.
-
-License
-Add your preferred license (MIT recommended).
 
 This README meets assignment and open-source standards, supports clear evaluation, and helps reviewers run/test your code efficiently.
+
 
 
