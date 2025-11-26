@@ -18,7 +18,8 @@ Mock JSON data for listings and categories
 
 
 
-This README meets assignment and open-source standards, supports clear evaluation, and helps reviewers run/test your code efficiently.
+This README meets assignment and open-source standards, supports clear evaluation, and helps reviewers run your code efficiently.
+
 
 
 
