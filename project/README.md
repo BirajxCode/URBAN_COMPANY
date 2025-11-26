@@ -21,7 +21,7 @@ A modern, responsive web application that replicates the core functionality and 
 - **Custom Hooks** for reusable logic
 - **Local Storage** integration for user preferences
 
-## 🛠️ Technology Stack
+## 🛠️ Technology Stack : 
 
 - **Frontend**: React 18, TypeScript
 - **Styling**: Tailwind CSS
